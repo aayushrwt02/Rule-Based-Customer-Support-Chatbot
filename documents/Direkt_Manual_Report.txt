@@ -1,0 +1,71 @@
+Introduction
+Welcome to Direkt, and thank you for choosing us. Direkt is an AI-powered Business Operating System developed by Glovomega Technologies Pvt. Ltd. for retail and wholesale businesses. It brings together essential business operations, including inventory management, POS billing, GST billing, accounting, digital catalogues, payment collection, order management, analytics, and AI-driven insights, into a single unified platform. By replacing multiple disconnected applications with one intelligent dashboard, Direkt enables businesses to manage their complete operations more efficiently, simplify daily processes, and make informed business decisions.
+
+About Direkt
+Direkt is a business automation platform that helps businesses replace manual work with digital processes. It allows businesses to create digital product catalogues, accept online B2B orders, manage inventory and multiple warehouses, generate GST invoices, track payments, maintain accounting records, monitor business performance, and receive AI-based recommendations.
+
+Key Features
+Direkt includes powerful features such as Sales, Inventory, Finance, Tax, and AI. These features help businesses manage sales, track inventory, maintain financial records, handle GST compliance, and gain AI-powered insights for smarter business decisions, all from a single platform.
+
+Sales module
+Sales enables businesses to manage the complete sales process, including POS billing, quotations, sales orders, GST invoice generation, credit sales, and customer ledger management.
+
+Inventory module
+Inventory helps businesses track and manage stock across multiple warehouses. It supports barcode scanning, batch tracking, stock transfers, stock adjustments, and low stock alerts to maintain accurate inventory levels.
+
+Finance module
+Finance helps businesses maintain accurate financial records through double-entry accounting, cash and bank book management, payment reconciliation, and journal entry recording.
+
+Tax module
+Tax helps businesses simplify GST compliance by supporting GST billing, ITC reconciliation, GSTR report generation, and GST register maintenance.
+
+AI module
+AI helps businesses improve decision-making by providing sales forecasts, inventory predictions, purchase recommendations, and valuable business insights.
+
+Getting Started
+To begin using Direkt, users first create their company by entering business details such as the company name, GSTIN, PAN, address, and contact information. After creating the company, warehouses can be added by providing warehouse details. Products are then added by entering information such as product name, SKU, barcode, GST rate, prices, opening stock, and product images.
+
+Step 1: Create Your Company
+To create a company, go to Settings → Company and enter the business name, GSTIN, PAN, address, and contact information. After entering the required details, click Save to create the company.
+
+Step 2: Create Warehouses
+To create a warehouse, go to Inventory → Warehouses and click Add Warehouse. Enter the warehouse name, address, manager, and contact number, then save the details. Repeat the same process to create additional warehouses.
+
+Step 3: Add Products
+To add a product, go to Inventory → Products and click New Product. Enter the product name, SKU, barcode, unit, GST rate, selling price, purchase price, and opening stock. Upload the product images and click Save to add the product.
+
+Product Catalogue
+The Digital Catalogue enables businesses to showcase their products online without requiring customers to install an app. Businesses can create a catalogue by selecting products, categories, customer groups, and price tiers from Catalogue → Create. After publishing, the catalogue can be shared with customers through WhatsApp, SMS, or QR codes, allowing them to easily browse products and place orders.
+
+Order Processing
+Customers can browse the shared catalogue, add products to their cart, complete checkout, and place orders directly through the provided link. Submitted orders are automatically received in Direkt without requiring customer login.
+
+Omnichannel Point of Sale(POS)
+Omnichannel POS allows businesses to manage sales across retail stores, wholesale counters, mobile billing, trade shows, and warehouse dispatch through a single system.
+
+Creating a Sale
+To create a sale, open POS, scan the product barcode, select the customer, apply any discount, generate the invoice, receive the payment, and print the invoice. The inventory is updated automatically after the sale is completed.
+
+Payments
+Direkt supports multiple payment methods, including Cash, UPI, Bank Transfer, Credit, Cheque, and Mixed Payments. Dynamic QR codes are generated automatically to simplify digital payment collection.
+
+Inventory Management
+Inventory Management keeps stock records updated automatically whenever sales, purchases, returns, adjustments, or transfers occur. It also provides real-time visibility of inventory across all warehouses.
+
+Purchase Orders
+Purchase Orders help businesses maintain optimal inventory by using AI to recommend new orders when stock levels fall below the configured limit. Users can review, modify, approve, and send purchase orders to suppliers.
+
+Accounting
+Accounting automatically records every business transaction, including sales invoices and payments, using a double-entry accounting system. This reduces manual work and keeps financial records accurate and up to date.
+
+GST
+GST Management helps businesses calculate CGST, SGST, and IGST automatically. It also generates GSTR-1, GSTR-3B, Sales Register, Purchase Register, and ITC Register to simplify GST filing and compliance.
+
+Analytics Dashboard
+Direkt provides a centralized dashboard that displays important business information such as revenue, profit, total orders, top-selling products, top customers, stock value, outstanding payments, GST summary, inventory health, and purchase trends. These insights help businesses monitor overall performance.
+
+Security
+Direkt protects business information through secure authentication, encrypted communication, role-based access control, audit logs, automatic backups, and permission management, ensuring that business data remains safe and accessible only to authorized users.
+
+Frequently Asked Questions
+Customers can place orders directly through a web link shared via WhatsApp, SMS, or QR code without installing an application. Direkt supports multiple warehouses with centralized inventory management and automatically generates GST invoices with CGST, SGST, and IGST calculations. Every financial transaction is recorded automatically using double-entry accounting, and businesses can track outstanding customer payments through receivable reports and payment reminders. New users can get started by creating their company, adding warehouses, and entering product details. Direkt provides comprehensive features including Sales, Inventory, Finance, Tax, and AI modules for complete business management.

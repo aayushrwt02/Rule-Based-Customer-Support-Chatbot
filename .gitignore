@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+
+vector_db/
+
+logs/
+*.log
+
+.vscode/
+
+anaconda_projects/
+
+.env
